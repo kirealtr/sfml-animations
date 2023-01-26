@@ -1,0 +1,8 @@
+*.json
+*.o
+*.exe
+*.txt
+*.vscode
+*.py
+*.vs
+[Dd]ebug*/
